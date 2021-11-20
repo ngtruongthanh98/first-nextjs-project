@@ -1,15 +1,9 @@
 // our-domain.com
 
-import React from 'react'
+import React from 'react';
 
 const HomePage = () => {
-  return (
-    <h1>
-      The home page
-    </h1>
-  )
-}
+  return <h1>The home page</h1>;
+};
 
-export default HomePage
-
-
+export default HomePage;
